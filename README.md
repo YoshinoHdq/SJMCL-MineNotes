@@ -1,4 +1,4 @@
-﻿<div align=center>
+<div align=center>
 
 # MineNote
 
@@ -13,6 +13,10 @@
 ## 简介
 
 MineNote 是一款 SJMCL 扩展，在启动器内提供一个简单易用的记事本功能，方便你随时记录游戏中的想法、备忘或笔记。
+
+提供两个版本：
+- **英文版**（org.yoshino.minenotes）
+- **中文版**（org.yoshino.minenotes.zh）
 
 ## 功能特色
 

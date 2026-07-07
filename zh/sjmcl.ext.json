@@ -1,7 +1,7 @@
 {
-  "identifier": "org.yoshino.minenotes",
+  "identifier": "org.yoshino.minenotes.zh",
   "name": "MineNote",
-  "description": "A simple notepad for quick notes",
+  "description": "功能比较简单的小记事本",
   "author": "hemekewayoshino",
   "version": "0.1.0",
   "minimalLauncherVersion": "1.1.3",

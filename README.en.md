@@ -1,8 +1,8 @@
-﻿<div align=center>
+<div align=center>
 
 # MineNote
 
-功能比较简单的小记事本 📝
+A simple notepad for quick notes 📝
 
 **English · [简体中文](README.md)**
 
@@ -13,6 +13,10 @@
 ## 简介
 
 MineNote is a SJMCL extension that provides a simple notepad within the launcher, making it easy to jot down in-game ideas, memos, or notes anytime.
+
+Two versions available:
+- **English** (org.yoshino.minenotes)
+- **中文版** (org.yoshino.minenotes.zh)
 
 ## Features
 
